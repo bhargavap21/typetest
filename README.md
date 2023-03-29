@@ -16,7 +16,9 @@
 ## Client-side Validation: Implement client-side validation using JavaScript to ensure that the user has entered all required fields before submitting the test and also validate the input while they are typing.
 
 ## Responsive Design: Make sure that the website is responsive and looks good on different screen sizes and devices.
+  
+Home Page UI:
 ![image](https://user-images.githubusercontent.com/62400858/228461236-afdd2514-90aa-4ae6-8e2b-f77fbe823f4f.png)
 
-  
-  ![image](https://user-images.githubusercontent.com/62400858/228461318-d4de4e64-a8d7-474d-a76c-1c0a10f0f5bb.png)
+Main Typing Test Page UI:
+![image](https://user-images.githubusercontent.com/62400858/228461318-d4de4e64-a8d7-474d-a76c-1c0a10f0f5bb.png)
